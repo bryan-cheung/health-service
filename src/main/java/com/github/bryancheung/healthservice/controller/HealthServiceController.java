@@ -18,7 +18,7 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
 @RestController
-@RequestMapping("/health-service/health")
+@RequestMapping("/health")
 public class HealthServiceController {
     private static final Logger logger = LoggerFactory.getLogger(HealthServiceController.class);
 
