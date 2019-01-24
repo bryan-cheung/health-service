@@ -35,7 +35,7 @@ public class SwaggerConfig {
 				.title("HealthService backend")
 				.description("HealthService backend")
 				.contact(new Contact("BryanCheung", null, "bryan.l.cheung@gmail.com"))
-				.version("1.0")// 版本号
+				.version("2.0")// 版本号
 				.build();
 	}
 }
